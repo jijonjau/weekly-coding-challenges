@@ -1,6 +1,6 @@
 # Weekly Coding Challenges
 
-A collection of programming challenges I'm working through to improve my problem-solving skills, strengthen programming fundamentals, and practice writing clean, practical code.
+A collection of programming challenges I'm working through to improve my problem-solving skills, strengthen programming fundamentals and practice writing clean, practical code.
 
 ## Structure
 
@@ -28,7 +28,7 @@ For each new challenge:
 
 1. Create a new folder inside `challenges/`.
 2. Add `main.py` containing the solution.
-3. Add `README.md` containing the problem statement, approach, key concepts, and instructions for running the code.
+3. Add `README.md` containing the problem statement, approach, key concepts and instructions for running the code.
 
 ## Language
 
