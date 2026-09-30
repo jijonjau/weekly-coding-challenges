@@ -1,29 +1,33 @@
-# Coding Challenges
+# Weekly Coding Challenges
 
-A collection of programming challenges I'm solving to improve my problem-solving skills, programming fundamentals, and ability to write clean, working code.
+A collection of programming challenges I'm working through to improve my problem-solving skills, strengthen programming fundamentals and practice writing clean, practical code.
 
 ## Structure
 
-Challenges are organized by week:
+Each challenge is added directly to the `challenges` folder. Every challenge has its own folder containing the solution and a short README explaining the challenge.
 
-week-01/
-week-02/
-week-03/
-...
+weekly-coding-challenges/
+│
+├── README.md
+│
+└── challenges/
+│
+├── digit-product/
+│ ├── main.py
+│ └── README.md
+│
+├── another-challenge/
+│ ├── main.py
+│ └── README.md
+│
+└── ...
 
-Each challenge has its own folder containing:
+For each new challenge:
 
-* `main.py` — the solution
-* `README.md` — the problem statement, approach and instructions for running the solution
+1. Create a new folder inside `challenges/`.
+2. Add `main.py` containing the solution.
+3. Add `README.md` containing the problem statement, approach, key concepts and instructions for running the code.
 
-## Languages
+## Language
 
-* Python
-
-## Progress
-
-| Week    | Challenges    |
-| ------- | ------------- |
-| Week 01 | Digit Product |
-| Week 02 | —             |
-| Week 03 | —             |
+Python

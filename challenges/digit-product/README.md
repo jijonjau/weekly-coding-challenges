@@ -15,11 +15,11 @@ Because:
 
 ## Requirements
 
-* Read a non-negative integer from the user.
-* Do not convert the number to a string.
-* Use arithmetic operations to extract the digits.
-* Multiply the digits together.
-* Print the result.
+- Read a non-negative integer from the user.
+- Do not convert the number to a string.
+- Use arithmetic operations to extract the digits.
+- Multiply the digits together.
+- Print the result.
 
 ## Approach
 
@@ -35,6 +35,10 @@ Because:
 From this folder:
 
 python main.py
+
+If that doesn't work, use:
+
+python3 main.py
 
 Example:
 
